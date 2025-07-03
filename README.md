@@ -15,12 +15,6 @@ Com ele, você pode criar, visualizar, favoritar e excluir notas de forma rápid
 
 ---
 
-## 🖼️ Preview
-
-> Você pode adicionar uma imagem chamada `screenshot.png` aqui na raiz do projeto para aparecer nesta seção.
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - [Laravel 11](https://laravel.com/)
